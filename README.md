@@ -47,20 +47,28 @@ This project is a modern, responsive **product features landing section** for a 
 
 ### 1. Clone the repository:
 
+```bash[
+git clone https://github.com/Caelestibus/-Gem-Talents.git
+cd -Gem-Talent
+```
+
+---
+
+### 2. Install dependencies: https://github.com/Caelestibus/-Gem-Talents.git
+
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-2. Install dependencies:
-bash
-Copy
-Edit
 npm install
-# or
-yarn
-3. Run development server:
-bash
-Copy
-Edit
+```
+
+---
+
+### 3. Run development server:
+
+```bash
 npm run dev
+```
+
 Open http://localhost:3000 in your browser to see the result.
+
+---
 
